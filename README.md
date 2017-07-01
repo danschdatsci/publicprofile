@@ -1,3 +1,3 @@
 # Dan Schielke - Public Code Profile
 
-Welcome! Shared here for all to see is a collection of R, Python, and SAS (along with some occasional C#) that I am free to post publicly.
+Welcome! This is a collection of R, Python, and SAS (along with some occasional Powershell and C#) that I am free to post publicly.
